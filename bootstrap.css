@@ -1,0 +1,53 @@
+.container{
+    display: grid;
+    justify-items: center;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px 10px;
+    margin-top: 100px
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.backgroundImage{
+    background-image: url("https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/8LOK/image/Kx3PTA8nv2pHelBbVxvavOi0lK0.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.id{
+
+}
+.pw{
+
+}
+.pw-check{
+
+}
+.student-number{
+
+}
+.major{
+
+}
+.phone-number{
+
+}
+.signup{
+
+}
+.cancel{
+
+}
+
+.login{
+
+}
+
+.signin-link{
+
+}
+.signup-link{
+    
+}

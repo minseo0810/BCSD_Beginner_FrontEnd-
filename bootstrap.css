@@ -10,6 +10,7 @@ a {
     text-decoration: none !important;
 }
 
+
 .backgroundImage{
     background-image: url("https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/8LOK/image/Kx3PTA8nv2pHelBbVxvavOi0lK0.JPG");
     background-size: cover;
@@ -20,7 +21,7 @@ a {
 
 }
 .pw{
-
+    
 }
 .pw-check{
 
@@ -34,6 +35,15 @@ a {
 .phone-number{
 
 }
+.birthday{
+    
+}
+.sex{
+
+}
+.email{
+
+}
 .signup{
 
 }
@@ -42,6 +52,10 @@ a {
 }
 
 .login{
+
+}
+
+.name{
 
 }
 
